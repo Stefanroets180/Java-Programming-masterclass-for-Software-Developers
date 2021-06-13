@@ -1,8 +1,6 @@
-package com.diegot;
+package com.company;
 
-/**
- * Created by DiegoT on 07/06/2019.
- */
+
 public class Lamp {
     private String style;
     private boolean battery;

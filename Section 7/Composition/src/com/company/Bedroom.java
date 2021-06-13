@@ -1,8 +1,6 @@
-package com.diegot;
+package com.company;
 
-/**
- * Created by DiegoT on 06/06/2019.
- */
+
 public class Bedroom {
     private String name;
     private Wall wall1;

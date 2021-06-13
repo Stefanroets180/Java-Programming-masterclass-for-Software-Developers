@@ -1,8 +1,6 @@
-package com.diegot;
+package com.company;
 
-/**
- * Created by DiegoT on 06/06/2019.
- */
+
 public class PC {
     private Case theCase;
     private Monitor monitor;

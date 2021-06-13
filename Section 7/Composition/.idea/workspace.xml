@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f35f6b8-4502-415e-8768-0bba5fe72e07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Composition.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section 7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bedroom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Case.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Ceiling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dimensions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Monitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Motherboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Resolution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Wall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section 7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Bed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Bedroom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Case.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Ceiling.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Dimensions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Lamp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Monitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Motherboard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Resolution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Wall.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Bed.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Bedroom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Case.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Ceiling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Dimensions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Lamp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Monitor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Motherboard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/PC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Resolution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Vehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/com/company/Wall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled104.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1tstKvcV5RVJmrTCC0ps0UKVHMW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f35f6b8-4502-415e-8768-0bba5fe72e07" name="Default Changelist" comment="" />
+      <created>1623569564460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623569564460</updated>
+      <workItem from="1623569565735" duration="905000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
