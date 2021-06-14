@@ -1,8 +1,5 @@
 package com.company;
 
-/**
- * Created by dev on 11/08/15.
- */
 public class Hamburger {
     private String name;
     private String meat;
