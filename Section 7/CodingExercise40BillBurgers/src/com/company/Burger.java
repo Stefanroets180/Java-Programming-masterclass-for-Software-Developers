@@ -79,7 +79,7 @@ public class Burger {
 
     public void printAdditionPrice(int number, Addition addition) {
         String result = number + ". " + addition.getName() +
-                "-------------------------" + addition.getPrice() + " €";
+                "-------------------------" + addition.getPrice() + " R";
         if (addition.isSelected()) {
             result += "...[X]";
         }
