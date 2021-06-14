@@ -2,56 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f35f6b8-4502-415e-8768-0bba5fe72e07" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Composition.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section 7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Bedroom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bedroom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Case.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Case.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Ceiling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Ceiling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Dimensions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Dimensions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Lamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Lamp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Monitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Monitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Motherboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Motherboard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/PC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/PC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Resolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Resolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Wall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Wall.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Section 7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Bed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Bedroom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Case.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Ceiling.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Dimensions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Lamp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Monitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Motherboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/PC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Resolution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Section 7/com/company/Wall.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Bed.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Bedroom.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Case.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Ceiling.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Dimensions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Lamp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Monitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Motherboard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/PC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Resolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Vehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/com/company/Wall.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../untitled104.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/CodingExercise57Composition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/src/com/company/Access.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/src/com/company/Dimensions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/src/com/company/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/src/com/company/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodingExercise57Composition/src/com/company/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +89,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -146,13 +111,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -171,7 +138,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623569564460</updated>
-      <workItem from="1623569565735" duration="905000" />
+      <workItem from="1623569565735" duration="1233000" />
+      <workItem from="1623577144124" duration="618000" />
     </task>
     <servers />
   </component>
@@ -188,5 +156,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
