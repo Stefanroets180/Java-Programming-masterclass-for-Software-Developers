@@ -33,8 +33,12 @@ public class Main {
         System.out.println(tim);
         tim.setWeapon("Stormbringer");
         saveObject(tim);
-        loadObject(tim);
+    //    loadObject(tim);
         System.out.println(tim);
+
+        ISaveable werewolf = new Monster("Werewolf", 20, 40);
+        System.out.println("Strength = " + ((Monster) werewolf).getStrength()) ;
+        saveObject(werewolf);
 
     }
 
