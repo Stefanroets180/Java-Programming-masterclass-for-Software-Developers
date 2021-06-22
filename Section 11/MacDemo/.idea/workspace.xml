@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b39194fe-dc54-4484-b49e-e2f1d4facb3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examp/awtSample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/examp/awtSample/MyMac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackagesPart1-3/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackagesPart1-3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackagesPart1-3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackagesPart1-3/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackagesPart1-3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../PackagesPart1-3/MacDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PackagesPart1-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PackagesPart1-3/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +102,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.examp.awtSample.Main" />
-      <module name="untitled104" />
+      <module name="PackageDemo" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -133,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PackageDemo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PackageDemo" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -147,7 +148,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624351409110</updated>
-      <workItem from="1624351410940" duration="1812000" />
+      <workItem from="1624351410940" duration="2729000" />
     </task>
     <servers />
   </component>

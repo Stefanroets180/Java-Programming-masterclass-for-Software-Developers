@@ -2,21 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b02054e-6b8c-4b66-b210-9e31ff6f0ddf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MacDemo/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/src/com/examp/awtSample/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/src/com/examp/awtSample/MyMac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MacDemo/untitled104.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MacDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PackageDemo/PackageDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MacDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MacDemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MacDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MacDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MacDemo/untitled104.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MacDemo/PackageDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
