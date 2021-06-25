@@ -58,7 +58,6 @@ public class Theatre {
         }
     }
 
-    // for testing
     public Collection<Seat> getSeats() {
         return seats;
     }
@@ -106,4 +105,5 @@ public class Theatre {
             return price;
         }
     }
+
 }
