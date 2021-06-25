@@ -4,6 +4,10 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -42,9 +46,9 @@ public class Main {
 
     public static void printList(List<Theatre.Seat> list) {
         for(Theatre.Seat seat : list) {
-            System.out.print(" | " + seat.getSeatNumber() + (" $") + seat.getPrice());
+            System.out.print(" " + seat.getSeatNumber() + " $" + seat.getPrice());
         }
         System.out.println();
-        System.out.println("=============================");
+        System.out.println("======================================================================");
     }
 }
