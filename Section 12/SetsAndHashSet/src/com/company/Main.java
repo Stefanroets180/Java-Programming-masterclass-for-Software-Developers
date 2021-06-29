@@ -75,25 +75,37 @@ public class Main {
         planets.add(temp);
 
         System.out.println("Planets");
-        for (HeavenlyBody planet : planets) {
+        for(HeavenlyBody planet : planets) {
             System.out.println("\t" + planet.getName());
         }
 
         HeavenlyBody body = solarSystem.get("Mars");
         System.out.println("Moons of " + body.getName());
-        for (HeavenlyBody jupiterMoon : body.getSatellites()) {
+        for(HeavenlyBody jupiterMoon: body.getSatellites()) {
             System.out.println("\t" + jupiterMoon.getName());
         }
 
         Set<HeavenlyBody> moons = new HashSet<>();
-        for (HeavenlyBody planet : planets) {
+        for(HeavenlyBody planet : planets) {
             moons.addAll(planet.getSatellites());
         }
 
         System.out.println("All Moons");
-        for (HeavenlyBody moon : moons) {
+        for(HeavenlyBody moon : moons) {
             System.out.println("\t" + moon.getName());
         }
+
+        HeavenlyBody pluto = new HeavenlyBody("Pluto", 842);
+        planets.add(pluto);
+
+        for(HeavenlyBody planet : planets) {
+            System.out.println(planet.getName() + ": " + planet.getOrbitalPeriod());
+        }
+
+        Object o = new Object();
+        o.equals(o);
+        "pluto".equals("");
+
 
 
     }
