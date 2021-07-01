@@ -8,7 +8,7 @@ public class Challenge {
 //      We did that to demonstrate that method, but it was actually
 //      unnecessary in the HeavenlyBody class.
 //      The mini challenge is just a question: why was it unnecessary?
-    
+
 //      Hint: If you are stuck, check out Lecture 97
 //
 //      Answer:
