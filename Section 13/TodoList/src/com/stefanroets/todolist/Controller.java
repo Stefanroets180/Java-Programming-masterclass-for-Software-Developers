@@ -11,10 +11,13 @@ import javafx.scene.control.TextArea;
 
 import java.time.LocalDate;
 import java.time.Month;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.List;
 
 public class Controller {
+
+    private List<TodoItem> todoItems;
 
     @FXML
     private ListView<TodoItem> todoListView;
@@ -37,7 +40,7 @@ public class Controller {
         TodoItem item5 = new TodoItem("Pick up dry cleaning", "The clothes should be ready by Wednesday",
                 LocalDate.of(2021, Month.JULY,20));
 
-        List<TodoItem> todoItems = new ArrayList<TodoItem>();
+        todoItems = new ArrayList<TodoItem>();
         todoItems.add(item1);
         todoItems.add(item2);
         todoItems.add(item3);
@@ -50,6 +53,8 @@ public class Controller {
                 if(newValue != null) {
                     TodoItem item = todoListView.getSelectionModel().getSelectedItem();
                     itemDetailsTextArea.setText(item.getDetails());
+                    DateTimeFormatter df = DateTimeFormatter.ofPattern("EEEE - d MMMM - yyyy"); // "d M yy");
+                    deadlineLabel.setText(df.format(item.getDeadline()));
                 }
             }
         });
@@ -70,7 +75,6 @@ public class Controller {
 //        sb.append("Due: ");
 //        sb.append(item.getDeadline().toString());
 //        itemDetailsTextArea.setText(sb.toString());
-
 
     }
 }

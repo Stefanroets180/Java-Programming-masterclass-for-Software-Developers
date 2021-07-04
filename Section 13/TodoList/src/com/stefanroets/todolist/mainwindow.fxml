@@ -5,7 +5,10 @@
 <?import javafx.scene.layout.HBox?>
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.text.Font?>
-<BorderPane fx:controller="com.stefanroets.todolist.Controller"
+
+<BorderPane
+
+        fx:controller="com.stefanroets.todolist.Controller"
             xmlns:fx="http://javafx.com/fxml">
     <left>
         <ListView fx:id="todoListView">
@@ -29,4 +32,5 @@
             </HBox>
         </VBox>
     </center>
+
 </BorderPane>
