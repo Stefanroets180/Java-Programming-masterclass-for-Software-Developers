@@ -3,7 +3,6 @@ package com.stefanroets.todolist;
 import com.stefanroets.todolist.datamodel.TodoData;
 import com.stefanroets.todolist.datamodel.TodoItem;
 import javafx.fxml.FXML;
-import javafx.fxml.FXML;
 import javafx.scene.control.DatePicker;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
