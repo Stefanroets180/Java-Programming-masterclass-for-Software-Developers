@@ -6,10 +6,25 @@
 <?import javafx.scene.control.Label?>
 <?import javafx.scene.text.Font?>
 
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
 <BorderPane
 
         fx:controller="com.stefanroets.todolist.Controller"
             xmlns:fx="http://javafx.com/fxml">
+    <top>
+        <MenuBar>
+            <Menu text = "File">
+                <items>
+                    <MenuItem text="New..."/>
+                    <SeparatorMenuItem/>
+                    <MenuItem text="Exit"/>
+                </items>
+            </Menu>
+        </MenuBar>
+    </top>
     <left>
         <ListView fx:id="todoListView">
 
