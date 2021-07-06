@@ -2,6 +2,7 @@ package com.stefanroets.todolist.datamodel;
 
 import java.time.LocalDate;
 
+
 public class TodoItem {
 
     private String shortDescription;
@@ -43,4 +44,3 @@ public class TodoItem {
         return shortDescription;
     }
 }
-

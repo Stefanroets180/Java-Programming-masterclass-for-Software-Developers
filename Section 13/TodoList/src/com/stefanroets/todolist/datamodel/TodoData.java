@@ -32,9 +32,9 @@ public class TodoData {
         return todoItems;
     }
 
-//    public void setTodoItems(List<TodoItem> todoItems) {
-//        this.todoItems = todoItems;
-//    }
+    public void addTodoItem(TodoItem item) {
+        todoItems.add(item);
+    }
 
     public void loadTodoItems() throws IOException {
 
@@ -48,29 +48,29 @@ public class TodoData {
             while ((input = br.readLine()) != null) {
                 String[] itemPieces = input.split("\t");
 
-                String shortDecription = itemPieces[0];
+                String shortDescription = itemPieces[0];
                 String details = itemPieces[1];
                 String dateString = itemPieces[2];
 
                 LocalDate date = LocalDate.parse(dateString, formatter);
-                TodoItem todoItem = new TodoItem(shortDecription, details, date);
+                TodoItem todoItem = new TodoItem(shortDescription, details, date);
                 todoItems.add(todoItem);
             }
 
-        }finally {
+        } finally {
             if(br != null) {
                 br.close();
             }
         }
     }
 
-    public void  storeTodoItems() throws  IOException {
+    public void storeTodoItems() throws IOException {
 
         Path path = Paths.get(filename);
         BufferedWriter bw = Files.newBufferedWriter(path);
-        try{
+        try {
             Iterator<TodoItem> iter = todoItems.iterator();
-            while (iter.hasNext()) {
+            while(iter.hasNext()) {
                 TodoItem item = iter.next();
                 bw.write(String.format("%s\t%s\t%s",
                         item.getShortDescription(),
@@ -79,10 +79,11 @@ public class TodoData {
                 bw.newLine();
             }
 
-        }finally {
+        } finally {
             if(bw != null) {
                 bw.close();
             }
         }
     }
+
 }
