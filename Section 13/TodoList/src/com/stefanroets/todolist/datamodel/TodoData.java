@@ -13,9 +13,6 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Iterator;
 
-/**
- * Created by timbuchalka on 20/04/2016.
- */
 public class TodoData {
     private static TodoData instance = new TodoData();
     private static String filename = "TodoListItems.txt";
