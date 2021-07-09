@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>kkos</first_name>
+	<last_name>kjhkjb</last_name>
+	<phone_number>000000</phone_number>
+	<notes>no</notes>
+</contact>
+<contact>
+	<first_name>Jan </first_name>
+	<last_name>Van den Berg</last_name>
+	<phone_number>016 933 6589</phone_number>
+	<notes>huis tell</notes>
+</contact>
+<contact>
+	<first_name>piet </first_name>
+	<last_name>Roets </last_name>
+	<phone_number>082 492 4789</phone_number>
+	<notes>pa</notes>
+</contact>
+<contact>
+	<first_name>Anton </first_name>
+	<last_name>Roets</last_name>
+	<phone_number>07468651993</phone_number>
+	<notes>My Brother</notes>
+</contact>
+</contacts>
