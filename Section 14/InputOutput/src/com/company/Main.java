@@ -1,4 +1,4 @@
-package com.timbuchalka;
+package com.company;
 
 import java.util.HashMap;
 import java.util.Map;
